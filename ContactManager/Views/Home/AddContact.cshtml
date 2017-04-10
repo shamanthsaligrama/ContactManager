@@ -1,0 +1,39 @@
+﻿@model ContactManager.Models.Contact
+
+ <form id="addContact" data-bind="submit: create">
+        <fieldset>
+            <legend>Contact</legend>
+            <div>First Name:</div>
+            <div>@Html.TextBoxFor(m => m.FirstName)</div>
+            <div>@Html.ValidationMessageFor(m => m.FirstName)</div>
+
+            <div>Last Name:</div>
+            <div>@Html.TextBoxFor(m => m.LastName)</div>
+            <div>@Html.ValidationMessageFor(m => m.LastName)</div>
+
+            <div>Email:</div>
+            <div>@Html.TextBoxFor(m => m.Email)</div>
+            <div>@Html.ValidationMessageFor(m => m.Email)</div>
+
+            <div style="border:solid 1px;">
+                <div>Status:</div>
+                <div>
+                    <table style="border:solid 0px;">
+                        <tr style="vertical-align:top;">
+                            <td align="center">Active:</td>
+                            <td align="left">@Html.RadioButtonFor(m => m.Status, "Active", new { Checked = "checked" })</td>
+                        </tr>
+                        <tr>
+                            <td align="center">InActive:</td>
+                            <td align="left">@Html.RadioButtonFor(m => m.Status, "Inactive")</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div>Phone:</div>
+            <div>@Html.TextBoxFor(m => m.PhoneNumber)</div>
+            <div>@Html.ValidationMessageFor(m => m.PhoneNumber)</div>
+
+            <button type="submit">Add</button>
+        </fieldset>
+</form>

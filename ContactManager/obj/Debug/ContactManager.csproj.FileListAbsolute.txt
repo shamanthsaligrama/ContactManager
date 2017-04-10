@@ -1,0 +1,157 @@
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\ajax-loader.gif
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image1.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image2.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image3.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image4.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image5.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image6.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Images\Image7.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\ContactManager.dll.config
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\ContactManager.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\ContactManager.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\ContactManager.XML
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Antlr3.Runtime.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.AspNet.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.Core.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OAuth.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OpenId.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\EntityFramework.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Data.Edm.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Data.OData.Contrib.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Data.OData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Web.WebPages.OAuth.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Newtonsoft.Json.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Ninject.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.Formatting.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.WebRequest.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Spatial.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Helpers.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Http.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Http.OData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Http.WebHost.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Mvc.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Optimization.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Razor.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.Deployment.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.Razor.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebApiContrib.IoC.Ninject.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebGrease.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebMatrix.Data.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebMatrix.WebData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Org.Mentalis.Security.Cryptography.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Mono.Math.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Data.Edm.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Data.OData.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Newtonsoft.Json.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Ninject.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Ninject.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Spatial.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\EntityFramework.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.Formatting.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Net.Http.WebRequest.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Helpers.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Http.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Http.WebHost.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Mvc.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.Razor.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.Deployment.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\System.Web.WebPages.Razor.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebMatrix.Data.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Microsoft.Web.WebPages.OAuth.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\WebMatrix.WebData.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.AspNet.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.Core.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OAuth.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OpenId.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Org.Mentalis.Security.Cryptography.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\bin\Mono.Math.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\obj\Debug\ContactManager.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\obj\Debug\ContactManager.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\ajax-loader.gif
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image1.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image2.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image3.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image4.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image5.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image6.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Images\Image7.png
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\ContactManager.dll.config
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\ContactManager.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\ContactManager.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\ContactManager.XML
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Antlr3.Runtime.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.AspNet.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.Core.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OAuth.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OpenId.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\EntityFramework.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Data.Edm.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Data.OData.Contrib.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Data.OData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Web.WebPages.OAuth.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Newtonsoft.Json.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Ninject.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.Formatting.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.WebRequest.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Spatial.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Helpers.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Http.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Http.OData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Http.WebHost.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Mvc.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Optimization.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Razor.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebApiContrib.IoC.Ninject.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebGrease.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebMatrix.Data.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebMatrix.WebData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Org.Mentalis.Security.Cryptography.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Mono.Math.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Data.Edm.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Data.OData.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Newtonsoft.Json.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Ninject.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Ninject.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Spatial.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\EntityFramework.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.Formatting.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Net.Http.WebRequest.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Helpers.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Http.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Http.WebHost.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Mvc.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.Razor.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Deployment.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\System.Web.WebPages.Razor.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebMatrix.Data.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Microsoft.Web.WebPages.OAuth.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\WebMatrix.WebData.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.AspNet.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.Core.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OAuth.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OpenId.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Org.Mentalis.Security.Cryptography.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\bin\Mono.Math.xml
+R:\TechProjects\Projects\ContactManager\ContactManager\obj\Debug\ContactManager.dll
+R:\TechProjects\Projects\ContactManager\ContactManager\obj\Debug\ContactManager.pdb

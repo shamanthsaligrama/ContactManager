@@ -1,0 +1,164 @@
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\ajax-loader.gif
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image1.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image2.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image3.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image4.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image5.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image6.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Images\Image7.png
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll.config
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.Tests.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Newtonsoft.Json.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Ninject.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Helpers.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Http.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Mvc.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Razor.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Optimization.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\EntityFramework.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Http.OData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebApiContrib.IoC.Ninject.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebMatrix.WebData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebGrease.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Data.Edm.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.Contrib.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Spatial.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebMatrix.Data.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Antlr3.Runtime.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Mono.Math.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\ContactManager.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Ninject.pdb
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Ninject.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Newtonsoft.Json.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Helpers.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Http.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Mvc.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.Razor.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\EntityFramework.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebMatrix.WebData.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Data.Edm.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\System.Spatial.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\WebMatrix.Data.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\bin\Debug\Mono.Math.xml
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\obj\Debug\ContactManager.Tests.csprojResolveAssemblyReference.cache
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\obj\Debug\ContactManager.Tests.dll
+R:\TechProjects\Projects\Contact Manager Web API\C#\ContactManager.Tests\obj\Debug\ContactManager.Tests.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\ajax-loader.gif
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image1.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image2.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image3.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image4.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image5.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image6.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Images\Image7.png
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll.config
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Newtonsoft.Json.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Ninject.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Helpers.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Http.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Mvc.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Razor.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Optimization.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\EntityFramework.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Http.OData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebApiContrib.IoC.Ninject.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebMatrix.WebData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebGrease.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Data.Edm.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.Contrib.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Spatial.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebMatrix.Data.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Antlr3.Runtime.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Mono.Math.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Ninject.pdb
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Ninject.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Newtonsoft.Json.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Helpers.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Http.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Mvc.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.Razor.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\EntityFramework.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebMatrix.WebData.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Data.Edm.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Microsoft.Data.OData.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\System.Spatial.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\WebMatrix.Data.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\bin\Debug\Mono.Math.xml
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\obj\Debug\ContactManager.Tests.csprojResolveAssemblyReference.cache
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\obj\Debug\ContactManager.Tests.dll
+R:\TechProjects\Projects\ContactManager\ContactManager.Tests\obj\Debug\ContactManager.Tests.pdb
